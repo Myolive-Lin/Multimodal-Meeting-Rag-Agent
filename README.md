@@ -109,8 +109,7 @@ The agent currently registers five tools:
 ├── job/build_index.py          # Offline indexing job
 ├── metting_notes/              # Default knowledge directory; existing spelling retained
 ├── pyproject.toml              # Project metadata and dependencies
-├── uv.lock                     # Locked dependency versions
-└── RAG.ipynb                   # Experimental notebook
+└── uv.lock                     # Locked dependency versions
 ```
 
 ## Quick Start
